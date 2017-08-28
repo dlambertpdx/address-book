@@ -12,7 +12,7 @@ $ git clone https://github.com/epicodus-lessons/address-book.git
 # Open project files in atom (or editor of choice)
 $ atom .
 
-# Or view function project by opening index.html in browser
+# Or view functional project by opening index.html in browser
 ```
 
 ## Technologies Used
